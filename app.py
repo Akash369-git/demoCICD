@@ -3,5 +3,5 @@ def add(a, b):
 
 if __name__ == "__main__":
     print("Running Application...")
-    result = add(90, 30)
+    result = add(900, 30)
     print(f"Result: {result}")
